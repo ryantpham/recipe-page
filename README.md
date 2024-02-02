@@ -26,5 +26,3 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Author
 
 - Frontend Mentor - [@ryantpham](https://www.frontendmentor.io/profile/ryantpham)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
